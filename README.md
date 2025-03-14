@@ -7,7 +7,8 @@ Este é o repositório dos testes automatizados para a aplicação Veggie Season
 Esse projeto foi totalmente construído com: Maestro (https://www.maestro.dev/)
 
 ## Requisitos
-Realize o download do repositório através do link: </br>
+Realize o download do repositório através do link: (https://github.com/RenanPFerreira/automated-tests-veggieseasons/tree/main/test)
+
 Para executar os cenários, primeiramente é necessário realizar a instalação do Maestro em seu equipamento, o caminho com todos os passos necessários se encontra na documentação oficial da página: 
 https://docs.maestro.dev/getting-started/installing-maestro
 
@@ -88,7 +89,7 @@ This project was entirely built using: Maestro (https://www.maestro.dev/)
 
 # Requirements
 
-Download the repository using the following link: </br>
+Download the repository using the following link: (https://github.com/RenanPFerreira/automated-tests-veggieseasons/tree/main/test) </br>
 To execute the test scenarios, you first need to install Maestro on your device. You can find all the necessary steps in the official documentation:
 https://docs.maestro.dev/getting-started/installing-maestro
 
