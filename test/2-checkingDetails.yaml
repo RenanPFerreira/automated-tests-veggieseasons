@@ -1,0 +1,39 @@
+appId: dev.flutter.veggieseasons
+---
+- launchApp:
+    appId: "dev.flutter.veggieseasons"
+- tapOn: Settings, Tab 4 of 4
+- tapOn: |-
+   Calorie Target
+   2000
+- tapOn: 2000 calories
+- tapOn: Back
+- tapOn: Home, Tab 1 of 4
+- scrollUntilVisible:
+   element: |-
+    A card background featuring Endive
+    Endive
+    It's basically the veal of lettuce.
+   centerElement: true
+- tapOn: |-
+   A card background featuring Endive
+   Endive
+   It's basically the veal of lettuce.
+- tapOn: |-
+   Endive
+   It's basically the veal of lettuce.
+   Seasons
+   Winter
+   Spring
+   Summer
+   Autumn
+   Serving size
+   1/2 cup, chopped
+   Calories
+   4 kCal
+   Vitamin A
+   10% DV
+   Vitamin C
+   2% DV
+   Percent daily values based on a diet of 2000 calories.
+- takeScreenshot: vegDetails2

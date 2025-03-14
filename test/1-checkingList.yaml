@@ -1,0 +1,12 @@
+appId: dev.flutter.veggieseasons
+---
+- launchApp:
+    appId: "dev.flutter.veggieseasons"
+- tapOn: "My Garden, Tab 2 of 4"
+- tapOn: "Home, Tab 1 of 4"
+- scrollUntilVisible:
+    element: "A card background featuring Endive\nEndive\nIt's basically the veal\
+      \ of lettuce."
+    centerElement: true
+- tapOn: "A card background featuring Endive\nEndive\nIt's basically the veal of lettuce."
+- takeScreenshot: "vegDetails"

@@ -1,0 +1,10 @@
+appId: dev.flutter.veggieseasons
+---
+- launchApp:
+    appId: "dev.flutter.veggieseasons"
+    clearState: true
+- tapOn: "My Garden, Tab 2 of 4"
+- tapOn: "You haven't added any favorite veggies to your garden yet."
+- takeScreenshot: "EmptyMyGardenField"
+
+

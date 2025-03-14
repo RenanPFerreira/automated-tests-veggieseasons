@@ -1,0 +1,19 @@
+appId: dev.flutter.veggieseasons
+---
+- launchApp:
+    appId: "dev.flutter.veggieseasons"
+- tapOn: Home, Tab 1 of 4
+- scrollUntilVisible:
+    element: "A card background featuring Limes\nLimes\nCouldn't have ceviche and\
+      \ margaritas without them."
+    centerElement: true
+- tapOn: "A card background featuring Limes\nLimes\nCouldn't have ceviche and margaritas\
+    \ without them."
+- tapOn:
+    point: "92%,7%"
+- tapOn: "Close button"
+- tapOn: "My Garden, Tab 2 of 4"
+- waitForAnimationToEnd
+- takeScreenshot: myGardenFavorited
+- tapOn: "Limes\nCouldn't have ceviche and margaritas without them."
+

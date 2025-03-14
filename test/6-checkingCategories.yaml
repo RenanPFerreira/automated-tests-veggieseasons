@@ -1,0 +1,24 @@
+appId: dev.flutter.veggieseasons
+---
+- launchApp:
+    appId: "dev.flutter.veggieseasons"
+    clearState: true
+- tapOn: "Settings, Tab 4 of 4"
+- tapOn: "Preferred Categories"
+- tapOn:
+    point: "85%,14%"
+- tapOn:
+    point: "85%,21%"
+- tapOn:
+    point: "85%,27%"
+- tapOn:
+    point: "85%,34%"
+- takeScreenshot: "categoriesChecked"
+- tapOn: "Back"
+- tapOn: "Restore Defaults"
+- tapOn:
+    point: "34%,53%"
+- tapOn: "Preferred Categories"
+- takeScreenshot: "categoriesUnchecked"
+
+
