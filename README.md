@@ -1,8 +1,7 @@
-<a id="readme-top"></a>
 # Sobre o Projeto
 Olá! 👋
 Este é o repositório dos testes automatizados para a aplicação Veggie Seasons. </br>
-🇺🇸 EN version? Please click here! 
+🇺🇸 EN version? (<a href="#english-version">Please click here!</a>)</p>
 
 ## 🔧 Desenvolvimento
 Esse projeto foi totalmente construído com: Maestro (https://www.maestro.dev/)
@@ -47,8 +46,8 @@ Após instalar o Maestro em seu equipamento e estar com seu emulador ou disposit
 ![maestro-favoriteTest](https://github.com/user-attachments/assets/01e0d94e-dcd7-477e-8027-150c7690d52b)
 
 
+<a id="english-version"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
